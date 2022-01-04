@@ -1,0 +1,18 @@
+Here the goal is put in practice the learned data scrapping, storing, cleaning and filtering skills.
+To this end, each one of you will be writing a Python Scrapper to scrap "[Zameen.com](https://www.zameen.com/all_locations/Islamabad-3-1-2.html)&quot; 
+Islamabad pages with relevant plots information.(Using Selenium and Python)
+WE ARE extracting following information:
+- Id
+- Type
+- Price
+- Location
+- Bath(s)
+- Area
+- Purpose
+- Bedroom(s)
+- Added Date
+- Agency Name
+- Price of 6 months
+- Price of 12 months
+- Price of 24 months
+and stored in seperate csv file
