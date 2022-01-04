@@ -16,3 +16,5 @@ WE ARE extracting following information:
 - Price of 12 months
 - Price of 24 months
 and stored in seperate csv file
+1. Since all the prices will be listed either in "Crores" or "Lacs", we used pandas apply function to update the price of each plot in millions.
+2. and All the plots area will be listed in "Kanals" or "Marlas" we changed the each plot area to Square-Meters
